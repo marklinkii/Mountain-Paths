@@ -1,8 +1,6 @@
 #ifndef FUNCTIONS_H
 #define FUNCTIONS_H
 
-// Do not add using namespace
-
 #include <iostream>
 
 const int MAX_ROWS = 1000;
