@@ -1,6 +1,6 @@
 ## Mountain-Paths
 
-This program reads a file of elevation data and outputs an image with the shortest path from one side to the other. 
+This program reads a file of elevation data and outputs a ppm file with the shortest path from one side to the other. The ppm file can then be converted into a jpg for viewing the paths.
 
 Inputs are image size (rows then columns in pixels) and data file name. 
 
