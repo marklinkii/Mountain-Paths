@@ -8,4 +8,4 @@ In the output file, the red lines are the shortest path given your starting posi
 
 Sample output: 
 
-![](Output/map-input-844-480.dat.jpg)
+![](Mountain%20Paths/Output/map-input-844-480.jpg)
