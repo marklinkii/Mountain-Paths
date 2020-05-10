@@ -1,1 +1,1 @@
-# This is my collection of projects done while at Texas A&M University
+# This program reads a ppm of elevation data and outputs an image with the shortest path from one side to the other. Red Lines are the shortest path given your starting position and the green line is the overall shortest path.
